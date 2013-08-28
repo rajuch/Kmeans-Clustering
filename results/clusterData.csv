@@ -1,0 +1,32 @@
+id,name,url,description,author,language,timestamp
+1382,Katakanaize,https://github.com/ainame/Katakanaize,"Katakanize is a rack middleware to convert hiragana to katakana.",ainame,Ruby,1335560000
+2483,jruby-pdf-server,https://github.com/futuretuesday/jruby-pdf-server,"Demo web app to show PDF form data interaction with a server. Uses the Java iText library via JRuby & Sinatra",futuretuesday,Ruby,1335620000
+3373,slovom,https://github.com/tarakanbg/slovom,"Converts decimal currency numbers into words in Bulgarian language",tarakanbg,Ruby,1334980000
+13788,Ghost-Stories,https://github.com/alexmcpherson/Ghost-Stories,"A PhantomJS+Sinatra mashup to pretty-print PDFs of Pivotal stories via a bookmarklet for legal documents",alexmcpherson,Ruby,1333520000
+16102,rack-si,https://github.com/dkastner/rack-si,"Rack Middleware that converts parameters into base SI units using Herbalist",dkastner,Ruby,1335510000
+16128,compass-photoshop-dropshadow,https://github.com/heygrady/compass-photoshop-dropshadow,"Compass mixin for using the dropshadow values that Photoshop uses. Making it easier to convert PSD files to CSS.",heygrady,Ruby,1335510000
+16616,NestedCSS,https://github.com/neilang/NestedCSS,"Convert traditional CSS into the nested selector form found in LESS and SCSS/SASS",neilang,Ruby,1335290000
+16736,prettyref,https://github.com/MatmaRex/prettyref,"A Wikipedia tool to convert <ref>-style references to {{r}}-style ones.",MatmaRex,Ruby,1334340000
+20376,NSAttributedString-OPHTML,https://github.com/mbrandonw/NSAttributedString-OPHTML,"Converting HTML to NSAttributedString objects with basic styling.",mbrandonw,Ruby,1333860000
+24649,udphex2pcap,https://github.com/shino/udphex2pcap,"UDP hex dump to pcap converter",shino,Ruby,1334370000
+25282,mew-prototype,https://github.com/aequihua/mew-prototype,"The MEW (Multitenancy-Elasticity Wrapper) is a middleware that converts a simple service into a multitenant-elastic service for transitioning to PaaS",aequihua,Ruby,1335170000
+27058,spectraldataconverter,https://github.com/wintercherry/spectraldataconverter,"Convert spectral data from weather stations into a format better-suited to plotting software like GNUPlot. Most likely nobody will ever find this useful except the one individual it was written for.",wintercherry,Ruby,1334380000
+32475,cjk_converter,https://github.com/stevendaniels/cjk_converter,"A CJK (Chinese, Japanese, and Korean) romanization converter for CJK languages.",stevendaniels,Ruby,1335700000
+34567,manybots-gmail-pizzahut,https://github.com/manybots/manybots-gmail-pizzahut,"Convert email order confirmations from Pizzahut Portugal to meal order activities.",manybots,Ruby,1334210000
+39125,EverCoow,https://github.com/LosManos/EverCoow,"A customised Evernote to Google docs converter",LosManos,Ruby,1335250000
+39319,query_builder,https://github.com/nilclass/query_builder,"An attempt to convert web-friendly paths to complex SQL queries, by applying information derived from associations modeled using ActiveRecord",nilclass,Ruby,1333560000
+41411,abnf,https://github.com/akr/abnf,"This is a library to convert ABNF (Augmented Backus-Naur Form) to Regexp (Regular Expression) written in Ruby.",akr,Ruby,1334350000
+43226,roman_numerals_converter,https://github.com/boooz/roman_numerals_converter,"roman_numerals_converter is a simple tool that provides API for converting arabic numerals to roman and vice versa. ",boooz,Ruby,1334440000
+43953,Simple64,https://github.com/C0deMaver1ck/Simple64,"A simple file to base64 string converter written in Sinatra",C0deMaver1ck,Ruby,1334330000
+45048,Niconvert,https://github.com/Yukimurun/Niconvert,"Convert videos to mp3 / mp4 from nicovideo.",Yukimurun,Ruby,1333340000
+48499,VX2Ace,https://github.com/IceDragon200/VX2Ace,"RPG Maker VX to RPG Maker VX Ace converter",IceDragon200,Ruby,1334660000
+54431,RGB-to-Hex-Converter,https://github.com/japellerano/RGB-to-Hex-Converter,"Converts RGB values to HEX values for the web, specifically Internet Explorer.",japellerano,Ruby,1334580000
+59916,pubrunner,https://github.com/sbraford/pubrunner,"Tool suite to convert a text-formatted novel into Kindle, HTML, PDF, and Octopress formats",sbraford,Ruby,1334850000
+59945,handbraker,https://github.com/hathaway/handbraker,"Automatically find and convert video files for iTunes.",hathaway,Ruby,1335150000
+64467,shunting_yard_algorithm,https://github.com/Sam-Serpoosh/shunting_yard_algorithm,"converting infix mathematical expressions to postfix",Sam-Serpoosh,Ruby,1333690000
+68047,to_pdf,https://github.com/mrkamel/to_pdf,"Convert a HTML string to a PDF using htmldoc.",mrkamel,Ruby,1334950000
+69248,markup2pdf,https://github.com/swerter/markup2pdf,"Converts markdown&textile to pdf",swerter,Ruby,1334380000
+69550,pdf_context,https://github.com/bjmorgan/pdf_context,"After performing a Spotlight search for pdfs, finds a string in those pdfs and prints the extract in context (set number of words before and after the search string). Currently outputs in a (bad) Markdown syntax, and includes links to the matched files.",bjmorgan,Ruby,1333520000
+78355,roman_numerals,https://github.com/bnd5k/roman_numerals,"ruby program that converts arabic numerals to roman numerals",bnd5k,Ruby,1334710000
+78994,bwkfanboy,https://github.com/gromnitsky/bwkfanboy,"A converter from a raw HTML to an Atom feed. You can use it to watch sites that do not provide its own feed.",gromnitsky,Ruby,1335090000
+81079,mysql2mongo,https://github.com/pacojp/mysql2mongo,"easy convertion from mysql to mongodb",pacojp,Ruby,1335050000
